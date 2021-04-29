@@ -1,8 +1,6 @@
 
 # Lukas Karsten
-![🥸](ME.jpeg)<br>
-[Email](mailto:lukas_cv@posteo.de)<br>
-Bremen, Germany<br>
+[Mail](mailto:lukas_cv@posteo.de) / [GitHub](https://github.com/LuKar-s)
 
 _Student of Media Computer Science at University of Applied Sciences Bremen._
 
