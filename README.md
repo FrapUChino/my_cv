@@ -6,7 +6,7 @@ _Student of Media Computer Science at University of Applied Sciences Bremen._
 
 ## 💻Computer Science Experience
 
-**Student Trainee** @[CeCon](https://www.ce-con.de/) _(since March 2020)_ <br>
+**Student Trainee** _(since March 2020)_ <br> @[CeCon](https://www.ce-con.de/) <br>
 
 Tasks:
  - Frontend Development: AngularJS
@@ -18,7 +18,7 @@ Tasks:
 
 ## 👨🏻‍🎓Education
 
-**International Studies Media Computer Science (desired Degree: B.Sc.)** @[University of Applied Sciences Bremen](https://www.hs-bremen.de/internet/en/index.html)  _(since October 2017)_ <br>
+**International Studies Media Computer Science (desired Degree: B.Sc.)** _(since October 2017)_ <br> @[University of Applied Sciences Bremen](https://www.hs-bremen.de/internet/en/index.html) <br>
 
 Some of my courses:
   - Testing & DevOps
@@ -26,11 +26,11 @@ Some of my courses:
   - Cloud & Big Data - Remote Course of [Baden-Wuerttemberg Cooperative State University,Mannheim](https://www.dhbw.de/english/home)
   - Software Testing and Analysis
 
-**Semester abroad** @[Manipal Institute of Technology (MIT)](https://manipal.edu/mit.html)  _(Jul 2020 - Dec 2020)_ <br>
+**Semester abroad** _(Jul 2020 - Dec 2020)_ <br> @[Manipal Institute of Technology (MIT)](https://manipal.edu/mit.html)
 
-**Apprenticeship Microtechnologist** @[Fraunhofer Institute for Silicon Technology](https://www.isit.fraunhofer.de/en.html) _( Aug 2013 - Aug 2016)_
+**Apprenticeship Microtechnologist** _( Aug 2013 - Aug 2016)_ <br> @[Fraunhofer Institute for Silicon Technology](https://www.isit.fraunhofer.de/en.html) <br>
 
-**Fachhochschulreife via Evening School** @[RBZ Steinburg](https://www.rbz-steinburg.de/) _(March 2014 - Aug 2016)_
+**Fachhochschulreife via Evening School** _(March 2014 - Aug 2016)_  <br> @[RBZ Steinburg](https://www.rbz-steinburg.de/) <br>
 
 ## 🖇 Besides
-**❤️ Volunteer for NGO SWK e.V** @[Schönere Wilkommenskultur e.V](https://schoenere-willkommenskultur.eu/)  _(since 2015)_ <br>
+**❤️ Volunteer for NGO SWK e.V** _(since 2015)_ <br> @[Schönere Wilkommenskultur e.V](https://schoenere-willkommenskultur.eu/) <br>
