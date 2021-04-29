@@ -1,7 +1,8 @@
 
 # Lukas Karsten
-[Email](mailto:lukas_cv@posteo.de)
-Bremen, Germany
+![🥸](ME.jpeg)<br>
+[Email](mailto:lukas_cv@posteo.de)<br>
+Bremen, Germany<br>
 
 _Student of Media Computer Science at University of Applied Sciences Bremen._
 
