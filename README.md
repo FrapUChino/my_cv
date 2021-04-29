@@ -6,7 +6,7 @@ _Student of Media Computer Science at University of Applied Sciences Bremen._
 
 ## 💻Computer Science Experience
 
-**Student Trainee** _(since March 2020)_ <br> @[CeCon](https://www.ce-con.de/) <br>
+**Student Trainee** _(since March 2020)_ <br> @[Ce-Con,Bremen](https://www.ce-con.de/) <br>
 
 Tasks:
  - Frontend Development: AngularJS
@@ -26,11 +26,11 @@ Some of my courses:
   - Cloud & Big Data - Remote Course of [Baden-Wuerttemberg Cooperative State University,Mannheim](https://www.dhbw.de/english/home)
   - Software Testing and Analysis
 
-**Semester abroad** _(Jul 2020 - Dec 2020)_ <br> @[Manipal Institute of Technology (MIT)](https://manipal.edu/mit.html)
+**Semester abroad** _(Jul 2020 - Dec 2020)_ <br> @[Manipal Institute of Technology (MIT),India](https://manipal.edu/mit.html)
 
-**Apprenticeship Microtechnologist** _( Aug 2013 - Aug 2016)_ <br> @[Fraunhofer Institute for Silicon Technology](https://www.isit.fraunhofer.de/en.html) <br>
+**Apprenticeship Microtechnologist** _(Aug 2013 - Aug 2016)_ <br> @[Fraunhofer Institute for Silicon Technology](https://www.isit.fraunhofer.de/en.html) <br>
 
-**Fachhochschulreife via Evening School** _(March 2014 - Aug 2016)_  <br> @[RBZ Steinburg](https://www.rbz-steinburg.de/) <br>
+**Fachhochschulreife via Evening School** _(Mar 2014 - Aug 2016)_  <br> @[RBZ Steinburg](https://www.rbz-steinburg.de/) <br>
 
 ## 🖇 Besides
 **❤️ Volunteer for NGO SWK e.V** _(since 2015)_ <br> @[Schönere Wilkommenskultur e.V](https://schoenere-willkommenskultur.eu/) <br>
