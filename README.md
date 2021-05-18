@@ -12,7 +12,7 @@ Tasks:
  - Frontend Development: AngularJS
  - Frontend Development: Angular.io
  - Writing e2e-Tests with Cypress.io
- - Continus Integration with Jenkins
+ - Continous Integration with Jenkins
  - Writing basic Dockerfiles
 <br>
 
