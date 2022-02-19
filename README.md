@@ -49,4 +49,4 @@ Some of my courses:
 **Fachhochschulreife via Evening School** _(Mar 2014 - Aug 2016)_  <br> @[RBZ Steinburg, Itzehoe](https://www.rbz-steinburg.de/) <br>
 
 ## 🖇 Besides
-**❤️ Volunteer for NGO SWK e.V** _(since 2015)_ <br> @[Schönere Wilkommenskultur e.V, Bremen](https://kune-ev.eu/) <br>
+**❤️ Volunteer for NGO KUNE e.V** _(since 2015)_ <br> @[KUNE e.V, Bremen](https://kune-ev.eu/) <br>
