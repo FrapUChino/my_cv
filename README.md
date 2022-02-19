@@ -47,6 +47,8 @@ Some of my courses:
 **Apprenticeship Microtechnologist** _(Aug 2013 - Aug 2016)_ <br> @[Fraunhofer Institute for Silicon Technology, Itzehoe](https://www.isit.fraunhofer.de/en.html) <br>
 
 **Fachhochschulreife via Evening School** _(Mar 2014 - Aug 2016)_  <br> @[RBZ Steinburg, Itzehoe](https://www.rbz-steinburg.de/) <br>
+<br>
+<br>
 
 ## 🖇 Besides
 **❤️ Volunteer for NGO KUNE e.V** _(since 2015)_ <br> @[KUNE e.V, Bremen](https://kune-ev.eu/) <br>
