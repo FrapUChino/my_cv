@@ -6,10 +6,9 @@ _Student of Media Computer Science at University of Applied Sciences Bremen._
 
 ## 💻Computer Science Experience
 
-**Student Trainee - Site Reliabilty Engineering (SRE)** <br>_(since August 2021)_ <br>@[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
+**Student Trainee - Site Reliabilty Engineering (SRE)** _(since August 2021)_ <br>@[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
 
-#### Currently: 
-Writing my Bachelor Thesis about:"Transformation of an existing application into a cloud-native architecture"
+> Currently: Writing my Bachelor Thesis about: Transformation of an existing application into a cloud-native architecture"
 
 Tasks:
  - Linux Administration
@@ -17,6 +16,7 @@ Tasks:
  - Packer - Image Creation & Management 
  - Gitlab - CI/CD
  - Root Cause Analysis
+<br>
 <br>
 
 **Student Trainee** _(March 2020 - July 2021)_ <br> @[Ce-Con, Bremen](https://www.ce-con.de/) <br>
@@ -28,6 +28,7 @@ Tasks:
  - Continous Integration with Jenkins
  - Writing basic Dockerfiles
 <br>
+<br>
 
 ## 👨🏻‍🎓Education
 
@@ -38,6 +39,8 @@ Some of my courses:
   - RedHat - Linux Administration
   - Cloud & Big Data - Remote Course of [Baden-Wuerttemberg Cooperative State University, Mannheim](https://www.dhbw.de/english/home)
   - Software Testing and Analysis
+<br>
+<br>
 
 **Semester abroad** _(Jul 2020 - Dec 2020)_ <br> @[Manipal Institute of Technology (MIT), India](https://manipal.edu/mit.html)
 
