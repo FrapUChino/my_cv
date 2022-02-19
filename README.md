@@ -6,7 +6,8 @@ _Student of Media Computer Science at University of Applied Sciences Bremen._
 
 ## 💻Computer Science Experience
 
-### Student Trainee - Site Reliabilty Engineering (SRE) ### _(since August 2021)_ <br> @[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
+### Student Trainee - Site Reliabilty Engineering (SRE) 
+ _(since August 2021)_ <br> @[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
 
 **Currently:** Writing my Bachelor Thesis about: "Transformation of an existing application into a cloud-native architecture"
 
@@ -19,7 +20,8 @@ Tasks:
 <br>
 <br>
 
-### Student Trainee ### _(March 2020 - July 2021)_ <br> @[Ce-Con, Bremen](https://www.ce-con.de/) <br>
+### Student Trainee 
+_(March 2020 - July 2021)_ <br> @[Ce-Con, Bremen](https://www.ce-con.de/) <br>
 
 Tasks:
  - Frontend Development: AngularJS
