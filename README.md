@@ -6,16 +6,22 @@ _Student of Media Computer Science at University of Applied Sciences Bremen._
 
 ## 💻Computer Science Experience
 
-**Student Trainee - Site Reliabilty Engineering (SRE)** _(since August 2021)_ <br>@[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
-
-> Currently: Writing my Bachelor Thesis about: Transformation of an existing application into a cloud-native architecture"
-
+**Site Reliabilty Engineering (SRE)** _(since June 2022)_ <br>@[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
 Tasks:
  - Linux Administration
  - Ansible - Config Management
  - Packer - Image Creation & Management 
  - Gitlab - CI/CD
  - Root Cause Analysis
+ - Container Orchestration w. Nomad/Consul
+
+> Bachelor Thesis about: Transformation of an existing application into a cloud-native architecture"
+<br>
+<br>
+
+**Student Trainee - Site Reliabilty Engineering (SRE)** _(August 2021 - May 2022)_ <br>@[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
+
+> Bachelor Thesis about: Transformation of an existing application into a cloud-native architecture"
 <br>
 <br>
 
