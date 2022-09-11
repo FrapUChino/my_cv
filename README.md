@@ -14,8 +14,6 @@ Tasks:
  - Gitlab - CI/CD
  - Root Cause Analysis
  - Container Orchestration w. Nomad/Consul
-
-> Bachelor Thesis about: Transformation of an existing application into a cloud-native architecture"
 <br>
 <br>
 
