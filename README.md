@@ -2,7 +2,7 @@
 # Lukas Karsten, 28
 [Mail](mailto:lukas_cv@posteo.de) / [GitHub](https://github.com/LuKar-s)
 
-_Student of Media Computer Science at University of Applied Sciences Bremen._
+_Site Reliability Engineer @Startnext_
 
 ## 💻Computer Science Experience
 
