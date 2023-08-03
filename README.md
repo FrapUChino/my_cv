@@ -11,7 +11,6 @@ Tasks:
 <ul>
   <li>Transition of infrastructure to AWS</li>
     <ul>
-      <li>Indented item</li>
       <li>Terraform</li>
       <li>implementation of ISO27001 standards</li>
       <li>Immutability</li>
@@ -20,7 +19,6 @@ Tasks:
     </ul>
   </li>
   <li>Config Management of on-premise Infrastrucutre w. Ansible</li>
-</ul> 
 <br>
 <br>
 
