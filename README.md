@@ -13,7 +13,7 @@ Tasks:
     - Terraform 
     - implementation of ISO27001 standards
     - Immutability
-    - Cloudwatch
+    - Cloudwatch & Prometheus
     - RDS w. Postgres engine
   - Config Management of on-premise Infrastrucutre w. Ansible
 <br>
