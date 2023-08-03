@@ -1,6 +1,6 @@
 
 # Lukas Karsten, 28
-[Mail](mailto:lukas_cv@posteo.de) / [GitHub](https://github.com/LuKar-s)
+[Mail](mailto:lukas_cv@posteo.de) / [GitHub](https://github.com/Laukes)
 
 _Site Reliability Engineer @CE-CON
 
@@ -70,5 +70,5 @@ Some of my courses:
 <br>
 <br>
 
-## 🖇 Besides
-**❤️ Volunteer for NGO KUNE e.V** _(since 2015)_ <br> @[KUNE e.V, Bremen](https://kune-ev.eu/) <br>
+## ♥️ Matter of the Heart
+**Volunteer for NGO KUNE e.V** _(since 2015)_ <br> @[KUNE e.V, Bremen](https://kune-ev.eu/) <br>
