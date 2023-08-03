@@ -8,16 +8,14 @@ _Site Reliability Engineer @CE-CON
 
 **Site Reliabilty Engineer (SRE)** _(since Jan 2023)_ <br>@[CE-CON GmbH, Bremen](https://www.ce-con.de/) <br>
 Tasks:
-<ul>
-  <li>Transition of infrastructure to AWS</li>
-    <ul>
-      <li>Terraform</li>
-      <li>implementation of ISO27001 standards</li>
-      <li>Immutability</li>
-      <li>Cloudwatch</li>
-      <li>RDS w. Postgres engine</li>
-    </ul>
-  <li>Config Management of on-premise Infrastrucutre w. Ansible</li>
+ - Transition of infrastructure to AWS
+    - Kubernetes/EKS
+    - Terraform 
+    - implementation of ISO27001 standards
+    - Immutability
+    - Cloudwatch
+    - RDS w. Postgres engine
+  - Config Management of on-premise Infrastrucutre w. Ansible
 <br>
 <br>
 
