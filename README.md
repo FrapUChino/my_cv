@@ -17,7 +17,6 @@ Tasks:
       <li>Cloudwatch</li>
       <li>RDS w. Postgres engine</li>
     </ul>
-  </li>
   <li>Config Management of on-premise Infrastrucutre w. Ansible</li>
 <br>
 <br>
