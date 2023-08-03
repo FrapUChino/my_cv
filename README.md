@@ -2,11 +2,24 @@
 # Lukas Karsten, 28
 [Mail](mailto:lukas_cv@posteo.de) / [GitHub](https://github.com/LuKar-s)
 
-_Site Reliability Engineer @Startnext_
+_Site Reliability Engineer @CE-CON
 
 ## 💻Computer Science Experience
 
-**Site Reliabilty Engineering (SRE)** _(since June 2022)_ <br>@[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
+**Site Reliabilty Engineer (SRE)** _(since Jan 2023)_ <br>@[CE-CON GmbH, Bremen](https://www.ce-con.de/) <br>
+Tasks:
+ - Transition of infrastructure to AWS
+  - Kubernetes/EKS
+  - Terraform 
+  - implementation of ISO27001 standards
+  - Immutability
+  - Cloudwatch
+  - RDS w. Postgres engine
+  - Config Management of on-premise Infrastrucutre w. Ansible
+<br>
+<br>
+
+**Site Reliabilty Engineer (SRE)** _(May 2022 - December 2022)_ <br>@[Startnext, Berlin & Dresden](https://www.startnext.com/) <br>
 Tasks:
  - Linux Administration
  - Ansible - Config Management
