@@ -67,5 +67,5 @@ Some of my courses:
 <br>
 <br>
 
-## ♥️ Matter of the Heart
+## ♥️ Matter of the heart
 **Volunteer for NGO KUNE e.V** _(since 2015)_ <br> @[KUNE e.V, Bremen](https://kune-ev.eu/) <br>
