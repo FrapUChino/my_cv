@@ -1,5 +1,5 @@
 
-# Lukas Karsten, 28
+# Lukas Karsten, 30
 [Mail](mailto:lukas_cv@posteo.de) / [GitHub](https://github.com/Laukes)
 
 _Site Reliability Engineer @CE-CON
@@ -8,13 +8,13 @@ _Site Reliability Engineer @CE-CON
 
 **Site Reliabilty Engineer (SRE)** _(since Jan 2023)_ <br>@[CE-CON GmbH, Bremen](https://www.ce-con.de/) <br>
 Tasks:
- - Transition of infrastructure to AWS
-    - Kubernetes/EKS
-    - Terraform 
-    - implementation of ISO27001 standards
-    - Immutability
-    - Cloudwatch & Prometheus
-    - RDS w. Postgres engine
+ - Transition of B2B Software to a multi-account AWS infrastructure
+    - Container Orchestration with Kubernetes (EKS)
+    - IaC with Terraform
+    - Implementation of ISO27001 standards
+    - Implementation of Immutability and Cloud Native Patterns 
+    - Monitoring with Cloudwatch and Prometheus
+    - RDS(Postgres Engine), Route53, EC2, SNS, IAM, ControlTower
   - Config Management of on-premise Infrastrucutre w. Ansible
 <br>
 <br>
@@ -26,6 +26,7 @@ Tasks:
  - Packer - Image Creation & Management 
  - Gitlab - CI/CD
  - Root Cause Analysis
+ - Golang development
  - Container Orchestration w. Nomad/Consul
 <br>
 <br>
